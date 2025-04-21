@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db26d9ad-c7e6-4a72-bc5a-9518928c109a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/StudentManagementSystem-Backend/src/main/java/com/hari/StudentManagementSystem_Backend/Repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudentManagementSystem-Backend/src/main/java/com/hari/StudentManagementSystem_Backend/Repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentManagementSystem-Backend/src/main/java/com/hari/StudentManagementSystem_Backend/StudentManagementSystemBackendApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudentManagementSystem-Backend/src/main/java/com/hari/StudentManagementSystem_Backend/StudentManagementSystemBackendApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentManagementSystem-Backend/src/main/java/com/hari/StudentManagementSystem_Backend/service/StudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentManagementSystem-Backend/src/main/java/com/hari/StudentManagementSystem_Backend/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentManagementSystem-Backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/StudentManagementSystem-Backend/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/StudentManagementSystem-Backend" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2uR44blslrO3mHgaGxafAw2Red5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HARI/Desktop/stdmgmt-fulltack/StudentManagementSystem-Backend"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db26d9ad-c7e6-4a72-bc5a-9518928c109a" name="Changes" comment="" />
+      <created>1742197864479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742197864479</updated>
+    </task>
+    <servers />
+  </component>
+</project>
